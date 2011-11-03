@@ -1,0 +1,10 @@
+# config files #
+################
+classes/AppInfo.php
+
+# zend project files #
+######################
+.buildpath
+.project
+.settings
+.settings/*
