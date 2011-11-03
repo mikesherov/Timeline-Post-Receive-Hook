@@ -11,3 +11,5 @@ If you were actually to attempt to make a version of this yourself, you would ne
 1. rename classes/sample.AppInfo.php to classes/AppInfo.php and populate relevant values.
 2. probably not use such a goofy datastore.
 3. create an app on facebook and configure a bunch of stuff in the Open Graph Editor.
+
+Good luck!
