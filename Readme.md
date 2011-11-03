@@ -6,7 +6,7 @@ To see this in action
 2. grant permissions
 3. follow the instructions on that page!
 
-If you were actually to attempt to make a version of this yourself, you would need to...
+If you were actually to attempt to make a version of this yourself, you would need to do the following...
 
 1. rename classes/sample.AppInfo.php to classes/AppInfo.php and populate relevant values.
 2. probably not use such a goofy datastore.
