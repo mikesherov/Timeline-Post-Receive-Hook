@@ -12,4 +12,4 @@ If you were actually to attempt to make a version of this yourself, you would ne
 2. probably not use such a goofy datastore.
 3. create an app on facebook and configure a bunch of stuff in the Open Graph Editor.
 
-When timeline goes live to everyone, this will be actually usable!
+When timeline goes live to everyone, this will be actually usable! Hopefully that happens soon.
